@@ -93,7 +93,7 @@
                   >Event Details</v-expansion-panel-title
                 >
                 <v-expansion-panel-text>
-                  <v-table>
+                  <v-table class="text-subtitle-1">
                     <tbody>
                       <tr>
                         <td>Organizer</td>
